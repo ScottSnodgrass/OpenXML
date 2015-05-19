@@ -1,0 +1,9 @@
+K:\app\DataMagic\DataMagic\bin\Release\DataMagic.exe
+K:\app\DataMagic\DataMagic\bin\Release\DataMagic.pdb
+K:\app\DataMagic\DataMagic\bin\Release\DocumentFormat.OpenXml.dll
+K:\app\DataMagic\DataMagic\bin\Release\DocumentFormat.OpenXml.xml
+K:\app\DataMagic\DataMagic\obj\x86\Release\DataMagic.Form1.resources
+K:\app\DataMagic\DataMagic\obj\x86\Release\DataMagic.Properties.Resources.resources
+K:\app\DataMagic\DataMagic\obj\x86\Release\DataMagic.csproj.GenerateResource.Cache
+K:\app\DataMagic\DataMagic\obj\x86\Release\DataMagic.exe
+K:\app\DataMagic\DataMagic\obj\x86\Release\DataMagic.pdb
