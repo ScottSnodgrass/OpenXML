@@ -1,0 +1,9 @@
+K:\app\OpenXML\OpenXML\bin\Release\OpenXML.exe
+K:\app\OpenXML\OpenXML\bin\Release\OpenXML.pdb
+K:\app\OpenXML\OpenXML\bin\Release\DocumentFormat.OpenXml.dll
+K:\app\OpenXML\OpenXML\bin\Release\DocumentFormat.OpenXml.xml
+K:\app\OpenXML\OpenXML\obj\x86\Release\OpenXML.Form1.resources
+K:\app\OpenXML\OpenXML\obj\x86\Release\OpenXML.Properties.Resources.resources
+K:\app\OpenXML\OpenXML\obj\x86\Release\OpenXML.csproj.GenerateResource.Cache
+K:\app\OpenXML\OpenXML\obj\x86\Release\OpenXML.exe
+K:\app\OpenXML\OpenXML\obj\x86\Release\OpenXML.pdb
