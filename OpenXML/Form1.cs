@@ -21,7 +21,7 @@ namespace OpenXML
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string fileName = @"K:\app\OpenXML\OpenXML\excel\test.xlsx";
+            string fileName = @".\excel\test.xlsx";
 
             // OpenXMLドキュメントを読み込み
             using (SpreadsheetDocument document = SpreadsheetDocument.Open(fileName, false))
